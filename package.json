@@ -1,6 +1,6 @@
 {
   "name": "@libtommy2024/saepe-iure-aperiam-aperiam",
-  "version": "21.57.403",
+  "version": "21.57.404",
   "description": "",
   "main": "index.js",
   "author": "OraliePham",
@@ -320,5 +320,5 @@
   "bugs": {
     "url": "https://github.com/libtommy2024/saepe-iure-aperiam-aperiam/issues"
   },
-  "packageManager": "yarn@4.9.2"
+  "packageManager": "yarn@4.9.3"
 }
